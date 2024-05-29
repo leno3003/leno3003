@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leno3003
-- 👀 I’m interested in ML, DNN, CNN, GANs, Bioinformatics, Astroinformatics, Autonomous Driving, AI-Assisted Driving, DeepFakes Generation, DeepFakes for Data Augmentation.
-- 🌱 I’m currently learning ML and AI fundamentals.
+- 👀 I’m interested in ML, DNN, Pruning, Interpretability, Computer Vision, Astroinformatics, AI-Assisted Driving, DeepFakes Generation, Data Augmentation.
+- 🌱 I’m currently learning Intepretability Methods for Computer Vision, and Pruning Techniques.
 - 📫 How to reach me: email - cassanoenrico53@gmail.com
 
 <!---
